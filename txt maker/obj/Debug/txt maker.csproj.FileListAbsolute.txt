@@ -1,0 +1,10 @@
+D:\Projects\txt maker\txt maker\bin\Debug\txt maker.exe.config
+D:\Projects\txt maker\txt maker\bin\Debug\txt maker.exe
+D:\Projects\txt maker\txt maker\bin\Debug\txt maker.pdb
+D:\Projects\txt maker\txt maker\obj\Debug\txt maker.csprojAssemblyReference.cache
+D:\Projects\txt maker\txt maker\obj\Debug\txt_maker.Form1.resources
+D:\Projects\txt maker\txt maker\obj\Debug\txt_maker.Properties.Resources.resources
+D:\Projects\txt maker\txt maker\obj\Debug\txt maker.csproj.GenerateResource.cache
+D:\Projects\txt maker\txt maker\obj\Debug\txt maker.csproj.CoreCompileInputs.cache
+D:\Projects\txt maker\txt maker\obj\Debug\txt maker.exe
+D:\Projects\txt maker\txt maker\obj\Debug\txt maker.pdb
